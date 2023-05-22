@@ -55,3 +55,6 @@ I'm open to any suggestion towards the app idea or the code. If anyone wants to 
 
 To view other winning submissions or to connect with other scholars visit the wwdcScholar website. You'll find me too there.
 [wwdcscholars](https://www.wwdcscholars.com)
+
+# License
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Dishant10/ColorFun/blob/main/LICENSE) file for details.
